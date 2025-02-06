@@ -9,6 +9,7 @@ public class DummyProjectTest
 	public void amazon()
 	{
 		Reporter.log("Application is launched",true);
+		Reporter.log("Amazon app",true);
 	}
 
 }
